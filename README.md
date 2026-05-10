@@ -1,6 +1,6 @@
-# MoonLIT Arc — Marcus Outreach Agent
+# ML Arc — Marcus Outreach Agent
 
-This repository contains the **Marcus Outreach Engine**, a specialised AI sub-agent used by **MoonLIT Arc** to automate personalised ROI-driven outreach for local businesses.
+This repository contains the **Marcus Outreach Engine**, a specialised AI sub-agent used by **ML Arc** to automate personalised ROI-driven outreach for local businesses.
 
 ## How it Works
 1. **Lead Discovery** — Pulls leads marked `Ready` from your Notion CRM (supports separate USA and India databases).
@@ -77,4 +77,4 @@ Failed leads are saved to `failed_leads.json` with a reason and timestamp:
 Fix the issue (e.g. re-set `Outreach Status` to `Ready` in Notion), then re-run Marcus.
 
 ---
-Built with ⚡ by **MoonLIT Arc** | [moonlitarc.vercel.app](https://moonlitarc.vercel.app/)
+Built with ⚡ by **ML Arc** | [mlarc.vercel.app](https://mlarc.vercel.app/)
